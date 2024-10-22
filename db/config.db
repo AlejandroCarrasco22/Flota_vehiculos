@@ -1,0 +1,3 @@
+url=jdbc:derby://localhost:1527/pucelacar
+user=adminpucelacar
+password=pucelacar2023
